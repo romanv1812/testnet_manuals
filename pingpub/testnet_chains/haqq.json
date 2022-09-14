@@ -1,0 +1,19 @@
+{
+    "chain_name": "HAQQ",
+    "coingecko": "",
+    "api": ["https://<YOUR_API_ENDPOINT>"],
+    "rpc": ["http://<YOUR_API_ENDPOINT>"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.3",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "haqq",
+    "logo": "https://raw.githubusercontent.com/romanv1812/testnet_manuals/main/pingpub/logos/Haqq.png",
+    "assets": [{
+        "base": "aISLM",
+        "symbol": "ISLM",
+        "exponent": "16",
+        "coingecko_id": "",
+        "logo": "https://raw.githubusercontent.com/romanv1812/testnet_manuals/main/pingpub/logos/Haqq.png"
+    }]
+}
